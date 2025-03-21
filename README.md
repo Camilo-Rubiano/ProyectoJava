@@ -9,7 +9,7 @@ El proyecto se compone de las siguientes clases principales:
 
 **Vendedor:** Representa un vendedor con datos personales y total de ventas.
 
-### Clases Utilitarias
+### Clase Utilitaria
 **UtilsFile:** Contiene métodos para leer/escribir archivos y procesar datos.
 
 ### Clase Principal con método main
