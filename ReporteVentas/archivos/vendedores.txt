@@ -1,0 +1,10 @@
+NIT;1205589469;Jorge;Gómez
+NIT;1406640862;Diego;Martínez
+NIT;1146067873;Camila;López
+CC;1170815026;Sofía;Vargas
+CC;1225613233;Carlos;Flores
+NIT;1605372226;Ana;González
+CC;1332270229;Fernando;Ramírez
+CC;1037226769;Natalia;Pérez
+CC;1705267101;Fernando;Torres
+NIT;1366357258;José;García
