@@ -14,3 +14,10 @@ El proyecto se compone de las siguientes clases principales:
 
 ### Clase Principal con método main
 **GenerateInfoFiles:** Genera archivos de prueba aleatorios.
+
+# Integrantes - Subgrupo 9
+- Jhonatan Arturo Carreño Prieto.
+- Claudia Patricia Cruz Mendez.
+- Fredy Alejandro Jimenez Gutierrez.
+- Johanna Sofia Bautista Rodriguez.
+- Jeisson Camilo Rubiano Alvarado.
