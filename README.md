@@ -15,7 +15,7 @@ El proyecto se compone de las siguientes clases principales:
 ### Clases Principales con método main
 **GenerateInfoFiles:** Genera archivos de prueba aleatorios.
 
-**Main:** Genera los reportes en formato CSV, con los archivos generado por la clase GenerateInfoFiles.
+**Main:** Genera los reportes en formato CSV, con los archivos generados por la clase GenerateInfoFiles.
 
 # Integrantes - Subgrupo 9
 - Jhonatan Arturo Carreño Prieto.
