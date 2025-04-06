@@ -12,7 +12,7 @@ El proyecto se compone de las siguientes clases principales:
 ### Clase Utilitaria
 **UtilsFile:** Contiene métodos para leer/escribir archivos y procesar datos, cuenta con dos metodos adicionales para la generacion de reportes CSV.
 
-### Clase Principal con método main
+### Clases Principales con método main
 **GenerateInfoFiles:** Genera archivos de prueba aleatorios.
 **Main:** Genera los reportes en formato CSV, con los archivos generado por la clase GenerateInfoFiles.
 
