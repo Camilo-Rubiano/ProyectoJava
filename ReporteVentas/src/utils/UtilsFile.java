@@ -138,4 +138,45 @@ public class UtilsFile {
          }
      }
  }
+ /**
+  * Genera el reporte de vendedores ordenados por total de ventas.
+  * 
+  * @param vendedores Lista de vendedores
+  * @param outputPath Ruta del archivo de salida
+  * @throws IOException Si ocurre un error de escritura
+  */
+ public static void generarReporteVendedores(Collection<Vendedor> vendedores, String outputPath) throws IOException {
+     List<Vendedor> listaVendedores = new ArrayList<>(vendedores);
+     
+     // Ordenar por total de ventas (de mayor a menor)
+     listaVendedores.sort((v1, v2) -> Double.compare(v2.getTotalVentas(), v1.getTotalVentas()));
+     
+     try (BufferedWriter writer = Files.newBufferedWriter(Paths.get(outputPath))) {
+         writer.write("Nombre;TotalVentas\n");
+         for (Vendedor vendedor : listaVendedores) {
+             writer.write(vendedor.toReportCSV() + "\n");
+         }
+     }
+ }
+ 
+ /**
+  * Genera el reporte de productos ordenados por cantidad vendida.
+  * 
+  * @param productos Lista de productos
+  * @param outputPath Ruta del archivo de salida
+  * @throws IOException Si ocurre un error de escritura
+  */
+ public static void generarReporteProductos(Collection<Producto> productos, String outputPath) throws IOException {
+     List<Producto> listaProductos = new ArrayList<>(productos);
+     
+     // Ordenar por cantidad vendida (de mayor a menor)
+     listaProductos.sort((p1, p2) -> Integer.compare(p2.getCantidadVendida(), p1.getCantidadVendida()));
+     
+     try (BufferedWriter writer = Files.newBufferedWriter(Paths.get(outputPath))) {
+         writer.write("Nombre;Precio;CantidadVendida\n");
+         for (Producto producto : listaProductos) {
+             writer.write(producto.toReportCSV() + "\n");
+         }
+     }
+ }
 }
