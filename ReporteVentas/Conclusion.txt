@@ -1,0 +1,50 @@
+Conclusiones
+
+1. Lo Aprendido durante el desarrollo del Proyecto
+
+Lo Aprendido durante el Desarrollo del Proyecto
+Durante el desarrollo del proyecto del sistema de reporte de ventas en Java, se consolidaron importantes aprendizajes tanto a nivel técnico como profesional. A través de este trabajo, se comprendió no solo la importancia de la programación orientada a objetos y la manipulación de archivos para el manejo de datos, sino también el valor de las buenas prácticas en el diseño modular del software.
+
+Además, se fortalecieron habilidades clave como la automatización de tareas repetitivas mediante la generación automática de reportes, el análisis estructurado de información y la capacidad de trabajar con datos para generar valor a través de informes precisos y útiles.
+
+Desde un enfoque práctico, la experiencia permitió desarrollar competencias en la organización y análisis de información, lectura y escritura de archivos CSV, y estructuración del código fuente para su mantenimiento y escalabilidad. Igualmente, se mejoró la comprensión sobre cómo un sistema puede integrarse con otros procesos empresariales, como la gestión de inventarios o la evaluación del desempeño de equipos comerciales.
+
+También se interiorizó la importancia de herramientas colaborativas como GitHub para el control de versiones y la coordinación del trabajo en equipo, aunque representaron un reto inicial. Enfrentar estos obstáculos permitió afianzar habilidades de autogestión del aprendizaje y resolución de problemas.
+
+Finalmente, este proyecto no solo permitió poner en práctica conocimientos adquiridos durante la formación académica, sino que también brindó una visión más clara de las aplicaciones reales del desarrollo de software en entornos empresariales, sentando bases sólidas para el desempeño profesional futuro en áreas como el análisis de datos, la automatización de procesos y la construcción de soluciones informáticas orientadas a la eficiencia organizacional.
+
+2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y practicados durante el desarrollo del proyecto: 
+
+Luego de hacer un análisis a fondo sobre el trabajo realizado, habiendo cumplido con las indicaciones dadas por nuestro tutor y basándonos en los puntos desarrollados este proyecto de programa de reporte de ventas desarrollado en Java, podemos decir que puede ser utilizado en varias aplicaciones de nuestra vida profesional, además de habernos ayudado a desarrollar habilidades importantes. A continuación mencionaremos algunas aplicaciones en las que podemos ponerlo en práctica:
+Para la vida profesional:
+
+	1. Para análisis de ventas: Podemos utilizar este sistema para generar reportes   de forma detallada para lograr identificar preferencias, productos más vendidos o vendedores más destacados, lo cual facilitaría la toma de decisiones a los estrategas.
+
+	2. Automatización de informes: Hacen posible que la dirección acceda a los datos cuando sea necesario; si se logra realizar informes en tiempo real se puede hacer un seguimiento más preciso; la generación de archivos CSV automáticamente permite ahorrar tiempo y reducir errores en la elaboración de informes periódicos.
+
+Teniendo en cuenta lo anterior se puede liberar tiempo y recursos que se pueden utilizar en tareas de estrategia.
+
+	3. Gestión de inventarios: Integrando este sistema con datos de inventario, se puede optimizar la gestión de stock y mejorar la planificación de compras además de la reducción de costos y satisfacer la demanda.
+
+	4. Medición de análisis de datos: Permite evaluar el desempeño de los vendedores y ajustar estrategias comerciales en función de los resultados, ayuda a tomar decisiones sobre bonificaciones, ascensos internos entre otros.
+Destrezas desarrolladas y aplicadas durante el proyecto:
+
+		- Programación en Java: Conocimiento de lenguaje de programación, estructuración de código, desarrollo de clases enfocadas a objetos y métodos, fortaleciendo habilidades en programación orientada a objetos.
+
+		- Manipulación de archivos: Desarrollamos mayor capacidad en lectura y escritura de archivos de texto y CSV, primordiales para el manejo de datos en muchas aplicaciones.
+
+		- Manipulación y análisis de información: lograr interpretar la organización y análisis de información para generar reportes útiles.
+
+		- Crear sistemas modulares: la utilización de clases separadas para modelos, utilidades y lógica principal, promoviendo buenas prácticas de diseño; logrando mejorar la organización, reutilización del código.
+
+		- Automatización de tareas: Creando procesos que generan informes automáticamente, mejorando la eficiencia y agilidad en los resultados.
+
+Todo lo anterior  no solo nos ayudó a comprender conceptos técnicos, sino que también nos introdujo en el desarrollo de roles para el análisis de datos, desarrollo de software y gestión de información en ambientes profesionales.
+
+3. Las dificultadas presentadas durante el desarrollo del proyecto:
+
+Durante el desarrollo de la aplicación se encontraron multiples dificultades que interrumpieron el desarrollo del proyecto, dificultades como:
+	- Organizar el tiempo: Al tratarse de un desarrollo extenso que requería de tiempo para implementarlo y mejorarlo en varias circunstancias los tiempos se saltaron o no se lograba a completar lo requerido.
+	- Falta de conocimiento: Dado que era un tema nuevo se requería de investigar e indagar sobre como implementarlo al trabajo lo que gasto tiempo al momento de realizarlo
+	- Division de tareas y responsabilidad: Debido a que es un trabajo tanto de conocimiento como de requerimientos se dificultaba asignar las tareas a cada integrante del grupo.
+	- Control del código y programas como GitHub: GitHub puede llegar a ser un programa complejo para entenderlo lo que podia retrasar o que no se actualizara correctamente el código.
